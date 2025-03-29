@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi, I'm a Software Developer with a strong foundation in Java ☕. I love building scalable applications and solving complex problems through code.<br><br>💡 Currently, I’m working on improving my Job Portal System by adding advanced features & database management using Core Java. At the same time, I'm learning the MERN stack 🌍 to expand my skills in full-stack development.<br><br>⚡ I'm always eager to explore new technologies, refine my skills, and collaborate on exciting projects. Check out my GitHub to see what I’m working on!<br><br>📬 Let’s connect and build something awesome!
+<br><br>👋 Hi, I'm a Software Developer with a strong foundation in Java ☕. I love building scalable applications and solving complex problems through code.<br><br>💡 Currently  I'm learning the MERN stack 🌍 to expand my skills in full-stack development.<br><br>⚡ I'm always eager to explore new technologies, refine my skills, and collaborate on exciting projects. Check out my GitHub to see what I’m working on!<br><br>📬 Let’s connect and build something awesome!
 
 
 ## 🌐 Socials:
