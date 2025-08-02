@@ -1,11 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm a Software Developer with a strong foundation in Java ☕ and hands-on experience in building backend systems, desktop applications, and scalable full-stack platforms.<br><br>
+👋 Hi, I'm a Software Developer with a strong foundation in MERN Stack and java  and hands-on experience in building backend systems, desktop applications, and scalable full-stack platforms.<br><br>
 
 💡 Currently I'm expanding my expertise in the MERN stack 🌍, developing real-world apps like productivity tools, employee management systems, and AI-integrated platforms.<br><br>
 
-⚙️ I’ve built a custom Java-based DBMS, a desktop expense tracker, and an AI code reviewer using Gemini AI, showcasing both system-level logic and modern JavaScript frameworks.<br><br>
-
-🌱 I'm an open-source contributor at GirlScript Summer of Code 2025, certified in AWS Cloud, Generative AI, and always exploring technologies like Nx Monorepos, Electron.js, and Cloud APIs.<br><br>
+🌱 I'm an open-source contributor at GirlScript Summer of Code 2025, certified in AWS Cloud, Generative AI, and always exploring new technologies .<br><br>
 
 🎤 As a university leader, speaker, and research paper author, I enjoy merging technical depth with clear communication and community building.<br><br>
 
